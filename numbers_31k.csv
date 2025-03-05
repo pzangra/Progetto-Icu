@@ -1,0 +1,11 @@
+step_num,step,subject_count,stay_count
+1,Initial dataset,38796,53178
+2,Number of multiple admissions,0,14382
+3,After excluding multiple admissions,38796,38796
+4,Number of pregnancies,425,425
+5,After excluding pregnancies,38371,38371
+6,Number of stays <24 h,6555,6555
+7,After excluding stays <24 h,31816,31816
+8,Number of stays >100 days,2,2
+9,After excluding stays >100 days,31814,31814
+10,Final number of patients,31814,31814
