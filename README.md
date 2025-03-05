@@ -5,8 +5,8 @@ Date: [Today's Date]
 Overview
 
 This repository contains the code and documentation for our Bachelor Thesis project in Biomedical Engineering. Our work focuses on developing machine learning models to predict mortality in ICU patients diagnosed with Sepsis or Systemic Inflammatory Response Syndrome (SIRS) using the publicly available MIMIC-IV database. In addition to the predictive models, the project investigates potential socio-economic bias in the predictions. We employ several models including Logistic Regression, XGBoost, and LightGBM, and apply hyperparameter tuning techniques (Random Search, Grid Search, and Optuna) to optimize performance.
-Repository Structure
 
+    Repository Structure:
     THESIS_PZ.pdf
     The complete thesis document, which details the clinical background, methodology, data extraction, preprocessing, and results.
 
