@@ -27,14 +27,13 @@ How to Run the Code
 
 Follow these steps to reproduce the experiments and view the results:
 
-    Clone the Repository:
+Clone the Repository:
 
-git clone https://github.com/pzangra/Progetto-Icu.git
-cd ICU-Mortality-Prediction
+    git clone https://github.com/pzangra/Progetto-Icu.git
 
 Install Dependencies:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Run the Jupyter Notebook:
 
@@ -66,20 +65,5 @@ The project follows a structured workflow:
     Feature Engineering: Calculating clinical scores and selecting relevant variables.
     Model Training & Evaluation: Using different machine learning models with hyperparameter tuning.
     Interpretability and Bias Analysis: Employing SHAP analysis and testing for socio-economic bias.
-
-Refer to the following images for a visual summary:
-
-    Complete Workflow: See complete_process.png
-    Hyperparameter Optimization: See optimization_hyp.png
-    Patient Selection Process: See selection_process.jpeg
-
-Contact Information
-
-For further details or questions regarding this project, please contact:
-
-    Pietro Maria Zangrando
-    Email: piezangrando@gmail.com
-    Riccardo Sanna
-    Emma Torracca
 
 Happy exploring! We hope this project serves as a useful resource for applying machine learning in clinical settings.
